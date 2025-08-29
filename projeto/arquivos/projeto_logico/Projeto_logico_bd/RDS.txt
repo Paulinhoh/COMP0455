@@ -1,0 +1,17 @@
+host:
+database-postgre-bd1-2025-1.cdwk8iisko7f.us-east-1.rds.amazonaws.com
+
+Port:
+5432
+
+Database:
+postgres
+
+user:
+professor
+
+password:
+professor
+
+Obs:
+As tabelas estão dentro do schema "Projeto Logico"
